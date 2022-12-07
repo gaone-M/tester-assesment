@@ -10,7 +10,7 @@ On a retail website, the following discounts apply:
 6. A user can get only one of the percentage based discounts on a bill.
 
 ###### ASSESSMENT QUESTIONS: ######
-• Write test cases for the above scenario.
-• Use any Automation Tool you are comfortable with.
-• Describe Some General Risks Associated with Automation Testing.
+• Write test cases for the above scenario.<br />
+• Use any Automation Tool you are comfortable with.<br />
+• Describe Some General Risks Associated with Automation Testing.<br />
 • According to you, can Automation Testing completely replace Manual testing? Explain your answer.
