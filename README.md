@@ -9,16 +9,7 @@ On a retail website, the following discounts apply:
 5. The percentage based discounts do not apply on groceries.
 6. A user can get only one of the percentage based discounts on a bill.
 
-Write a Spring Boot Java application with test cases, which exposes an API such that given a
-bill, it finds the net payable amount. Please note the stress is on object oriented approach
-and test coverage. User interface is not required, only an API exposed.
-
-What we care about:
-
-Required Activities
-• Object oriented programming approach, provide a high level UML class diagram of all the key classes in your solution.
-  This can either be on paper or using a CASE tool
-• Unit tests to achieve good code coverage, good use of Mocking
-• Code to be generic and simple
-• Leverage today's best coding practices
-• Clear README.md that explains how the code and the test can be run and how the coverage reports can be generated
+1. Write test cases for the above scenario.
+2. Use any Automation Tool you are comfortable with.
+3. Describe Some General Risks Associated with Automation Testing.
+4. According to you, can Automation Testing completely replace Manual testing? Explain your answer.
