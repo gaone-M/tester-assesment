@@ -15,4 +15,7 @@ On a retail website, the following discounts apply:
 3. Describe Some General Risks Associated with Automation Testing.<br />
 4. According to you, can Automation Testing completely replace Manual testing? Explain your answer.<br /><br />
 
-###### NB: ###### Please document your work according to your preference (PowerPoint slides, MS Doc, PDF etc)
+### Running tests ###
+after the environment steup run the following tests in the following procedure
+
+1. clone the project: in the terminal, run the command git clone https://github.com/gaone-M/tester-assesment.git
